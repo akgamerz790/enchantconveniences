@@ -1,6 +1,8 @@
 # About
 Inspired from **highkeyoli**, chiseled bookshelves can now power enchanting tables!
 
+[![Build Status](https://github.com/akgamerz790/enchantconveniences/actions/workflows/originium-build.yml/badge.svg)](https://github.com/akgamerz790/enchantconveniences/actions/workflows/originium-build.yml)
+
 # Features
 - Enchanting tables no longer need line of sight with bookshelves for power
 - You can use chiseled bookshelves now instead of bookshelves
